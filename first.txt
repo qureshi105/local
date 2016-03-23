@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-fg
 fg
 fg
 fg
@@ -9,6 +7,4 @@ fg
 fg
 fgfgfgfgfgfgfgfgfgfgfgfgfgfgfgfgfgfirst
 ffffffffffffffff
-=======
 fffffffffffffffff
->>>>>>> hotfix
